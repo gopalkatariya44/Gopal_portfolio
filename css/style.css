@@ -147,7 +147,10 @@ h3 { font-size: var(--fs-h3) }
 
 
 
-
+.logo{
+    height: 8rem;
+    width:  8rem;
+}
 
 
  
